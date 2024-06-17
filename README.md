@@ -1,8 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="[150" src="[[https://images.app.goo.gl/NBxBLMmtmyx9x5UU7]](https://github.blog/wp-content/uploads/2023/10/AI-DarkMode-2.png?fit=1200%2C630)](https://github.blog/wp-content/uploads/2023/10/AI-DarkMode-2.png?resize=1200%2C630)"  />
-</div>
+![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 
 ###
 <h1 align="center">Hi 👋, I'm Arul</h1>
